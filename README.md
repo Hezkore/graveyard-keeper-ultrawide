@@ -6,6 +6,8 @@ Removes the built in 2560x1440 cap so the game uses the monitor's real native re
 Drop the exe into the game folder and run it once.\
 The game launches borderless at the native resolution with a hardware cursor.
 
+![Game running at 5120x1440](demo.png)
+
 ## Why
 
 Out of the box the game rejects anything wider than 2560 or taller than 1440. On a 5120x1440 monitor that leaves half the screen unused or the game letterboxed.\
